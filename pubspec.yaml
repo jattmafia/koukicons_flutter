@@ -1,0 +1,21 @@
+name: koukicons
+description: Colorful Icons for your Flutter App, no more black and white icons
+version: 2.0.3
+author: Adem Kouki<ademkingnew@gmail.com>
+homepage: https://github.com/Ademking/koukicons_flutter.git
+
+environment:
+  sdk:  '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  flutter_svg:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  
